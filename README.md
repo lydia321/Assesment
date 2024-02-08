@@ -1,4 +1,4 @@
-Jokes Central
+
 Welcome to Jokes Central! This React application provides users with a platform to enjoy a collection of random jokes. With a sleek and user-friendly interface, users can easily search for jokes, filter them by category, and enjoy a good laugh.
 
 Features:
